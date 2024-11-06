@@ -42,7 +42,9 @@ This repository contains a collection of lab exercises and exams from the **TDDE
 
 6. **Entropy Analysis**  
    - Calculate entropy over time to check localization accuracy.
-![Entropy](images/1.png)
+<br style="clear: both;">
+<img src="images/1.png"  width="300" style="float: left; margin-right: 10px;">
+<br style="clear: both;">
 
 7. **Predict Next State**  
    - Estimate hidden state probabilities for time step 101.
@@ -56,21 +58,29 @@ This repository contains a collection of lab exercises and exams from the **TDDE
 
 2. **Environment A**  
    - Analyze learning with multiple rewards and observe optimal policy formation.
-![Entropy](images/2.png)
+<br style="clear: both;">
+<img src="images/2.png"  width="300" style="float: left; margin-right: 10px;">
+<br style="clear: both;">
 3. **Environment B**  
    - Examine how ε and γ affect the agent’s policy in a 7×8 grid.
-![Entropy](images/3.png)
-![Entropy](images/4.png)
-![Entropy](images/5.png)
+<br style="clear: both;">
+<img src="images/5.png"  width="250" style="float: left; margin-right: 10px;">
+<img src="images/4.png"  width="250" style="float: left; margin-right: 10px;">
+<img src="images/3.png"  width="250" style="float: left; margin-right: 10px;">
+<br style="clear: both;">
 4. **Environment C**  
    - Study the impact of β on policy in a 3×6 grid.
-![Entropy](images/6.png)
+<br style="clear: both;">
+<img src="images/6.png"  width="300" style="float: left; margin-right: 10px;">
+<br style="clear: both;">
 5. **REINFORCE in Grid World**  
    - Understand the REINFORCE algorithm’s operation in a 4×4 grid with random goals.
 
 6. **Environment D**  
    - Validate policy learned with eight goal positions.
-![Entropy](images/7.png)
+<br style="clear: both;">
+<img src="images/7.png"  width="300" style="float: left; margin-right: 10px;">
+<br style="clear: both;">
 7. **Environment E**  
    - Analyze overfitting with goals restricted to top-row training positions.
 
@@ -83,23 +93,31 @@ This repository contains a collection of lab exercises and exams from the **TDDE
 
 2. **Posterior Updates**  
    - Update the posterior with single and multiple observations and visualize results.
-![Entropy](images/8.png)
-![Entropy](images/9.png)
+<br style="clear: both;">
+<img src="images/8.png"  width="300" style="float: left; margin-right: 10px;">
+<img src="images/9.png"  width="300" style="float: left; margin-right: 10px;">
+<br style="clear: both;">
 3. **GP Regression with kernlab**  
    - Use `kernlab` to fit a GP model on daily temperature data and compare hyperparameter effects.
 
 4. **Time vs. Day Model Comparison**  
    - Compare GP models with `time` and `day` as inputs, analyzing pros and cons.
-![Entropy](images/10.png)
-![Entropy](images/11.png)
+<br style="clear: both;">
+<img src="images/10.png"  width="300" style="float: left; margin-right: 10px;">
+<img src="images/11.png"  width="300" style="float: left; margin-right: 10px;">
+<br style="clear: both;">
+
 5. **Locally Periodic Kernel**  
    - Extend the GP with a periodic kernel to model seasonal patterns.
-![Entropy](images/12.png)
+<br style="clear: both;">
+<img src="images/12.png"  width="300" style="float: left; margin-right: 10px;">
+<br style="clear: both;">
 
 6. **GP Classification**  
    - Train a GP classification model on banknote fraud data, using two and four covariates, and compare accuracy.
-
-![Entropy](images/13.png)
+<br style="clear: both;">
+<img src="images/13.png"  width="300" style="float: left; margin-right: 10px;">
+<br style="clear: both;">
 ---
 
 ## Exams
